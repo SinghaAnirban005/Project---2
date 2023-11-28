@@ -1,0 +1,178 @@
+.d1{
+  display : flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.x1{
+  background-color : rgb(172, 166, 166);
+  width : 50%;
+ height : 800px;
+}
+.x2{
+  background-color: rgb(88, 88, 88);
+  width : 50%;
+ height : 800px;
+ display : flex;
+ flex-direction: column;
+}
+.x3{
+  background-color: gray;
+  height : 540px;
+  margin-top : 80px;
+ margin-left : 80px;
+  width : 640px;
+  padding-left : 20px;
+  padding-right : 20px;
+  padding-top : 20px;
+}
+.p1{
+  margin-top : 30px;
+  color : white;
+  font-family : 'Times New Roman', Times, serif;
+  font-size : 60px;
+}
+.p2{
+  font-family: 'Times New Roman', Times, serif;
+  color : white;
+}
+.x4{
+ 
+  width : 700px;
+  height : 220px;
+  margin-top: 60px;
+  margin-left : 60px;
+
+}
+.x5{
+  background-color: purple;
+  width : 700px;
+  height : 220px;
+margin-top : 10px;
+margin-left: 60px;
+}
+.x6{
+  background-color: green;
+  width : 700px;
+  height : 220px;
+  margin-top : 10px;
+  margin-left : 60px;
+}
+.x7{
+  
+  display : flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.x8{
+  color : white;
+  width : 30%;
+  background-color: rgb(53, 50, 50);
+  height : 220px;
+ 
+}
+.x9{
+  background-color: white;
+  width : 70%;
+  padding-left : 10px;
+  padding-top : 10px;
+}
+.px{
+  color : white;
+  margin-left : 20px;
+  font-size : 50px;
+}
+.x10{
+  font-size : 20px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+.button1{
+border-radius: 3px;;
+font-size : 15px;
+height : 40px;
+width : 120px;
+cursor : pointer;
+}
+
+
+.x11{
+  
+  display : flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.x12{
+  color : white;
+  width : 30%;
+  background-color: rgb(53, 50, 50);
+  height : 220px;
+ 
+}
+.x13{
+  background-color: white;
+  width : 70%;
+  padding-left : 10px;
+  padding-top : 10px;
+}
+.px{
+  color : white;
+  margin-left : 20px;
+  font-size : 50px;
+}
+.x14{
+  font-size : 20px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+.button1{
+border-radius: 3px;;
+font-size : 15px;
+height : 40px;
+width : 120px;
+cursor : pointer;
+}
+
+
+.x16{
+  
+  display : flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+}
+.x17{
+  color : white;
+  width : 30%;
+  background-color: rgb(53, 50, 50);
+  height : 220px;
+ 
+}
+.x18{
+  background-color: white;
+  width : 70%;
+  padding-left : 10px;
+  padding-top : 10px;
+}
+.px{
+  color : white;
+  margin-left : 20px;
+  font-size : 50px;
+}
+.x19{
+  font-size : 20px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+.button1{
+border-radius: 3px;;
+font-size : 15px;
+height : 40px;
+width : 120px;
+cursor : pointer;
+}
+.link1{
+  text-decoration: none;
+}
